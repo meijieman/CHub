@@ -4,6 +4,8 @@ project(CHub)
 #set(CMAKE_C_STANDARD 99)
 #set(BUILD_USE_64BITS on)
 
+add_subdirectory(code02)
+
 add_executable(chub main.c)
 
 add_executable(chub_01 code01/c01.c)
