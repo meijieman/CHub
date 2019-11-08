@@ -4,7 +4,7 @@
 //
 /*
  * C语言必背18个经典程序
- *
+ * https://zhuanlan.zhihu.com/p/44276814?utm_source=wechat_session&utm_medium=social&utm_oi=683395286613889024
  */
 
 /*输出9*9口诀。共9行9列，i控制行，j控制列。*/
